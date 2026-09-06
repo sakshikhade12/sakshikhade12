@@ -2,31 +2,32 @@
 
 # Sakshi Vijay Khade
 
-### Full-Stack Web Developer (in progress) | Web Dev × AI/ML
+### Frontend Web Developer | Web Dev × AI/ML
 
 B.Tech, Electronics & Telecommunication Engineering — SSPACE, Wardha (RTMNU) · 4th Year, 7th Semester
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-khade-51aab1340)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshikhade369@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakshikhade12)
 
 </div>
 
 <br>
 
-## About
+## 📌 About
 
-I'm an Electronics & Telecommunication Engineering student transitioning into full-stack web development, with a growing interest in applying AI/ML to real-world problems. My background in embedded systems and IoT gives me a strong grounding in how hardware and software interact, which I now bring into building web applications.
+I'm an Electronics & Telecommunication Engineering student transitioning into frontend and full-stack web development, with a growing interest in applying AI/ML to real-world problems. My background in embedded systems and IoT gives me a strong grounding in how hardware and software interact, which I now bring into building web applications.
 
-Currently sharpening my skills in JavaScript, backend development, and databases, while preparing for internship and entry-level software/web development opportunities.
+Currently sharpening my skills in JavaScript, backend fundamentals, and databases, while actively looking for a **Frontend Internship**.
 
-- Full-stack web development, JavaScript, and backend fundamentals
-- Applying Python and ML basics to data-driven projects
-- Background in IoT and embedded systems (ESP8266/ESP32, Arduino)
+- 🎯 Actively seeking a Frontend Development internship
+- 💻 Strong fundamentals in JavaScript, DOM, and responsive UI development
+- 🧠 Applying Python and ML basics to data-driven side projects
+- 🔌 Background in IoT and embedded systems (ESP8266/ESP32, Arduino)
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 <br>
@@ -63,58 +64,61 @@ Currently sharpening my skills in JavaScript, backend development, and databases
 
 <br>
 
-## Projects
+## 🚀 Projects
 
-**PaisaTrack — Smart Expense Tracker**
-`Python` `Pandas` `Streamlit` `Scikit-learn` `PostgreSQL`
-Personal finance tracker that stores and analyzes expense data in PostgreSQL, with an interactive Streamlit dashboard for visualization and lightweight ML-based insights.
-[Repository](#)
+**🔌 Web Server Based Smart Bulb Automation**
+`IoT` `NodeMCU ESP8266` `Embedded C` `Web Server`
 
-**Web Server Based Smart Bulb Automation**
-`IoT` `NodeMCU ESP8266` `Embedded C`
-IoT project using a NodeMCU ESP8266 to control electrical appliances remotely through a lightweight web server — bridging embedded systems and web technology.
-[Repository](#)
+An IoT automation project where a NodeMCU ESP8266 hosts a lightweight web server to control electrical appliances remotely, without needing a separate app. Covers the full loop: sending a command from a browser, the microcontroller receiving it over Wi-Fi, and switching the relay in real time. A good example of how embedded hardware and web technology can work together.
 
-**JavaScript To-Do App**
+🔗 Repository: 
+
+---
+
+**✅ JavaScript To-Do App**
 `HTML` `CSS` `JavaScript`
-Task management app built to practice core JavaScript concepts: DOM manipulation, event handling, and dynamic UI updates.
-[Repository](#)
 
-**Spotify Web Player UI**
+A task management app built to strengthen core JavaScript fundamentals. Users can add, update, and remove tasks, with the UI updating live through DOM manipulation and event listeners — no page reloads, no frameworks, just vanilla JS done right.
+
+🔗 Repository: 
+
+---
+
+**🎧 Spotify Web Player UI**
 `HTML` `CSS`
-Frontend clone of a music-streaming interface, focused on layout precision, responsive design, and UI fundamentals.
-[Repository](#)
 
-> Update the `#` links above with your live repository URLs.
+A frontend clone of a music-streaming interface, built to practice layout precision and responsive design. Focused on replicating real-world UI structure — spacing, grid/flex layouts, and visual hierarchy — the way it'd need to look in a production app.
 
-<br>
-
-## Currently Learning
-
-Advanced JavaScript &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; SQL & PostgreSQL &nbsp;·&nbsp; Data Structures & Algorithms (Java) &nbsp;·&nbsp; AI/ML Fundamentals &nbsp;·&nbsp; Full-Stack Development
-
-**Trajectory:** Electronics & Telecommunication Engineering → Web Development → Full-Stack Development → AI/ML Integration
+🔗 Repository: 
 
 <br>
 
-## GitHub Stats
+## 📚 Currently Learning
+
+Advanced JavaScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; SQL & PostgreSQL &nbsp;·&nbsp; Data Structures & Algorithms (Java) &nbsp;·&nbsp; AI/ML Fundamentals
+
+**Trajectory:** Electronics & Telecommunication Engineering → Frontend Development → Full-Stack Development → AI/ML Integration
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakshikhade12&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshikhade12&layout=compact&theme=default&hide_border=true" height="165"/>
 
 </div>
 
 <br>
 
-## Contact
+## 📬 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-khade-51aab1340)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshikhade369@gmail.com)
 
-Open to internships and entry-level roles in software / web development — Remote / Hybrid
+**Looking for a Frontend Development Internship** — Remote / Hybrid
 
 </div>
